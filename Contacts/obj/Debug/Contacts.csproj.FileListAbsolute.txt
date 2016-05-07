@@ -1,0 +1,9 @@
+E:\11 GitHub\Contacts\Contacts\bin\Debug\Contacts.exe.config
+E:\11 GitHub\Contacts\Contacts\bin\Debug\Contacts.exe
+E:\11 GitHub\Contacts\Contacts\bin\Debug\Contacts.pdb
+E:\11 GitHub\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+E:\11 GitHub\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+E:\11 GitHub\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+E:\11 GitHub\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+E:\11 GitHub\Contacts\Contacts\obj\Debug\Contacts.exe
+E:\11 GitHub\Contacts\Contacts\obj\Debug\Contacts.pdb
